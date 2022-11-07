@@ -1,0 +1,31 @@
+{
+  "name": "nlw-copa",
+  "version": "1.0.0",
+  "description": "NLW Copa 2022",
+  "main": "index.js",
+  "scripts": {
+    "start:web": "npm-run-all --parallel dev:server dev:web",
+    "start:mobile": "npm-run-all --parallel dev:server dev:mobile",
+    "start:all": "npm-run-all --parallel dev:server dev:web dev:mobile",
+    "dev:server": "cd ./server && npm run dev",
+    "dev:web": "cd ./web && npm run dev",
+    "dev:mobile": "cd ./mobile && npx expo start",
+    "build:web": "cd ./web && next build",
+    "lint:web": "cd ./web && next lint",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dedevillela/nlw-copa.git"
+  },
+  "keywords": [],
+  "author": "André Aguiar Villela",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dedevillela/nlw-copa/issues"
+  },
+  "homepage": "https://github.com/dedevillela/nlw-copa#readme",
+  "devDependencies": {
+    "npm-run-all": "^4.1.5"
+  }
+}
