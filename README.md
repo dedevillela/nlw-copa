@@ -4,7 +4,7 @@
 
 ![Wallpaper - 1400x900](https://user-images.githubusercontent.com/3102096/200440974-1ba8df06-b946-4992-acc4-3670be2f2a4e.png)
 
-> The NLW is a free online event to take you to the next level building an exclusive,never seen before complete application. Extensive use of **Next JS**[^nextjs] and **Native Base**[^nativebase].
+> The NLW is a free online event to take you to the next level building an exclusive,never seen before complete application. Extensive use of **Next JS**[^nextjs], **Prisma**[^prisma] and **Native Base**[^nativebase].
 
 - 💻 [Project Details (Notion)](https://efficient-sloth-d85.notion.site/Trilha-Ignite-82e072f1d683490aa480e4a822357b35)
 
@@ -51,12 +51,14 @@ npx expo dev
 
 [^nextjs]: [Next JS](https://nextjs.org/)
 
+[^prisma]: [Prisma](https://www.prisma.io/docs/)
+
 [^nativebase]: [NativeBase](https://nativebase.io/)
 
 [pr-badge]: https://img.shields.io/badge/PRs-welcome-brightgreen.svg
 
 [pr-link]: ./CONTRIBUTING.md
 
-[gh-license-link]: ./LICENSE
-
 [gh-license-badge]: https://img.shields.io/github/license/dedevillela/nlw-copa
+
+[gh-license-link]: ./LICENSE

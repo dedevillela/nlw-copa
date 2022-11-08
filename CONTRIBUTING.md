@@ -9,6 +9,7 @@ Before contributing to `nlw-copa`, you should make sure you have the following t
     [`nvm`](https://github.com/nvm-sh/nvm) as your version manager for Node.
 - Git
 - [NPM](https://www.npmjs.com/package/npm)
+- [Expo CLI](https://docs.expo.dev/) and [Expo Account](https://expo.dev/)
 
 You'll also need a code editor to make changes. There are many to choose from but some popular options are [VSCode](https://code.visualstudio.com/), [Atom](https://atom.io), and [Sublime](https://www.sublimetext.com/).
 
