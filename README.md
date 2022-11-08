@@ -37,6 +37,8 @@ npm install && \
 npm run dev
 ```
 
+- Install dependencies and start the mobile development instance.
+
 ```sh
 cd mobile && \
 npm install && \
