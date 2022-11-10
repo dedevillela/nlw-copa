@@ -4,7 +4,7 @@
 
 ![Wallpaper - 1400x900](https://user-images.githubusercontent.com/3102096/200440974-1ba8df06-b946-4992-acc4-3670be2f2a4e.png)
 
-> The NLW Copa is a free online event to take you to the next level building an exclusive FIFA World Cup Qatar 2022™ poll application. Extensive use of **Next JS**[^nextjs], **Prisma**[^prisma], **Expo**[^expo] and **Native Base**[^nativebase].
+> The **NLW Copa** is a free online event to take you to the next level, building an exclusive **FIFA World Cup Qatar 2022™** poll application. Extensive use of **Next JS**[^nextjs], **Prisma**[^prisma], **Expo**[^expo] and **Native Base**[^nativebase].
 
 - 💻 [Project Details (Notion)](https://efficient-sloth-d85.notion.site/Trilha-Ignite-82e072f1d683490aa480e4a822357b35)
 
