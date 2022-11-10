@@ -1,6 +1,6 @@
 # NLW Copa
 
- ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/dedevillela/nlw-copa?include_prereleases) [![PRs welcome][pr-badge]][pr-link] [![GitHub Lisense][gh-license-badge]][gh-license-link]
+ ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/dedevillela/nlw-copa?include_prereleases) [![PRs welcome][pr-badge]][pr-link] [![GitHub Lisense][gh-license-badge]][gh-license-link] [![Say Thanks][st-badge]][st-link] [![Views][views-badge]][views-link]
 
 ![Wallpaper - 1400x900](https://user-images.githubusercontent.com/3102096/200440974-1ba8df06-b946-4992-acc4-3670be2f2a4e.png)
 
@@ -64,3 +64,11 @@ npx expo start
 [gh-license-badge]: https://img.shields.io/github/license/dedevillela/nlw-copa
 
 [gh-license-link]: ./LICENSE
+
+[st-badge]: https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB
+
+[st-link]: https://saythanks.io/to/dedevillela/
+
+[views-badge]: https://views.whatilearened.today/views/github/dedevillela/nlw-copa.svg
+
+[views-link]: https://github.com/dedevillela/nlw-copa
