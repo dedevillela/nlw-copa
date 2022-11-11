@@ -20,7 +20,7 @@ cd nlw-copa && \
 npm install
 ```
 
-- Install dependencies and start the web development instance.
+- Install dependencies and start the web development environment.
 
 ```sh
 cd web && \

@@ -20,7 +20,7 @@ cd nlw-copa && \
 npm install
 ```
 
-- Install dependencies and start the mobile development instance.
+- Install dependencies and start the mobile development environment.
 
 ```sh
 cd mobile && \

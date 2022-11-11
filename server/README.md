@@ -20,7 +20,7 @@ cd nlw-copa && \
 npm install
 ```
 
-- Install dependencies, generate database schema and start the server development instance.
+- Install dependencies, generate database schema and start the server development environment.
 
 ```sh
 cd server && \
