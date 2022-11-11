@@ -20,7 +20,7 @@ cd nlw-copa && \
 npm install
 ```
 
-- Install dependencies, generate database schema and start the server development instance.
+- Install dependencies, generate database schema and start the server development environment.
 
 ```sh
 cd server && \
@@ -29,7 +29,7 @@ npx prisma migrate dev && \
 npm run dev
 ```
 
-- Install dependencies and start the web development instance.
+- Install dependencies and start the web development environment.
 
 ```sh
 cd web && \
@@ -37,7 +37,7 @@ npm install && \
 npm run dev
 ```
 
-- Install dependencies and start the mobile development instance.
+- Install dependencies and start the mobile development environment.
 
 ```sh
 cd mobile && \
