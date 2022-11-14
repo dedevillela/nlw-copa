@@ -1,6 +1,6 @@
 # NLW Copa
 
- ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/dedevillela/nlw-copa?include_prereleases) [![PRs welcome][pr-badge]][pr-link] [![GitHub Lisense][gh-license-badge]][gh-license-link] [![Say Thanks][st-badge]][st-link] [![Views][views-badge]][views-link]
+ ![GitHub release (latest by date including pre-releases)](https://img.shields.io/github/v/release/dedevillela/nlw-copa?include_prereleases) ![Github most used language](https://img.shields.io/github/languages/top/dedevillela/nlw-copa) [![PRs welcome][pr-badge]][pr-link] [![GitHub Lisense][gh-license-badge]][gh-license-link] [![Say Thanks][st-badge]][st-link] [![Views][views-badge]][views-link]
 
 ![Wallpaper - 1400x900](https://user-images.githubusercontent.com/3102096/200440974-1ba8df06-b946-4992-acc4-3670be2f2a4e.png)
 
